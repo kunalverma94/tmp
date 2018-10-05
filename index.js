@@ -11,5 +11,6 @@ function Toggle() {
 
 }
 window.onload = function () {
+    Toggle();
 }
 
