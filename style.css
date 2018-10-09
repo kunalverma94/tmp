@@ -1,0 +1,286 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: 'Roboto';
+  font-size: 14px;
+  transition: background-color .5s;
+  background: #303030;
+  color: white;
+  user-select: none;
+}
+.noflow
+{
+    overflow: hidden;
+}
+.sidenav {
+    height: 100%;
+    overflow: hidden;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #222;
+    overflow-x: hidden;
+    transition: .5s;
+    padding-top: 60px;
+}
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+  transition: .3s;
+}
+
+.sidenav a:hover {
+  color: white;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: .5s;
+
+  margin-left: 0;
+}
+
+.togggler_left {
+  left:218px!important;
+}
+
+#toggler {
+  position: fixed;
+  z-index: 99;
+  color: white;
+  transition: .5s;
+  left: 0;
+  padding: .3rem .5rem;
+  top: 0;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 36px;
+}
+
+.nav_open {
+  width: 250px;
+}
+.sec_nav {
+  background: #303030;
+}
+.main_open {
+  margin-left: 250px !important;
+}
+
+.tab-content > div {
+  padding: 0 1rem;
+}
+
+/* Inside main */
+.top {
+  text-align: center;
+  top: 0px;
+  width: 100%;
+}
+nav.navbar.navbar-inverse {
+  background: transparent;
+  border: 0;
+}
+
+.head {
+  background: #3f51b5;
+  color: white;
+  letter-spacing: 3px;
+  word-spacing: 9px;
+  font-size: 26px;
+  padding: 1rem;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  background: #3f51b5;
+  left: 0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  padding: 1rem;
+}
+
+.nav_content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    right: 0;
+}
+button.mbutton {
+    background: #3f51b5;
+    border: 0;
+    outline: none;
+    padding: 0.5rem 1rem;
+}
+.ntop {
+    height: 200px;
+    width: 200px;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+.ndown {
+    bottom: 5%;
+}
+.nav_content.nmid>ul {
+    list-style: none;
+    margin: 0;
+    display: inline;
+}.nav_content.nmid>ul>li {
+    padding: 5px 0px;
+    margin: 3px 0px 0 0;
+}
+button.mbutton {
+    background: #2bbbad;
+    border: 0;
+    outline: none;
+    padding: 0.5rem 1rem;
+    width: 97%;
+    margin: 4px 0;
+}
+.caption {
+    position: relative;
+    top: 100%;
+    border-bottom: solid 2px #3f51b5;
+}
+.usre_image {
+    background: url(/assets/user.svg);
+    height: 200px;
+    border-radius: 50%;
+    background-size: contain;
+    width: 200px;
+    display: inline-block;
+    border: solid;
+}
+
+.nav_content.nmid {
+    top: 50%;
+}
+
+
+
+@media (min-width: 768px){
+  .navbar-nav {
+  float: none;
+  margin: 0;
+}
+}
+/* TOP NAV BAR */
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+  color:white;
+  background-color: transparent;
+  border-bottom: solid #00BCD4;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  color: #fff;
+  background-color: transparent;
+  border-bottom: solid green;
+}
+
+.dropdown-menu
+{
+  background: #303030;
+  color: white;
+}
+.dropdown-menu>li>a {
+  
+  color: white;
+
+}
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+  color: white;
+  background-color: #303030;
+  border-bottom: solid 2px #3f51b5;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+  color: #fff;
+  background-color: #303030;
+  
+}
+h3 {
+  border-bottom: solid #3f51b5;
+  display: inline-block;
+  padding: 0 0 4px 0;
+  width: 25%;
+}
+.nav>li {
+  text-align: center;
+}
+._cen
+{
+  text-align: center;
+}
+.cen
+{
+  display: inline-block;
+}
+.collapse {
+  display: none;
+}
+a.navbar-brand:after {
+  content: 'Home';
+  font-size: 9px;
+}
+@media only screen and (max-width: 600px) {
+  .head {
+    font-size: 17px;
+  }
+
+  .cen
+{
+  display:unset;
+}
+.collapse {
+  display: none;
+}
+  .sidenav {
+    padding-top: 15px;
+  }
+
+  body {
+    font-size: 10px;
+  }
+
+  .nav-tabs > li {
+    float: none;
+  }
+
+  .togglerRT {
+    display: inline-block;
+  }
+
+  .sidenav a {
+    font-size: 18px;
+  }
+
+  .nav_open {
+    width: 100%!important;
+  }
+
+  .togggler_left {
+    left: 85%!important;
+  }
+
+}
