@@ -12,7 +12,7 @@ function Toggle() {
 }
 window.onload = function() {
 
-    // Getimg();
+      Toggle();
 }
 
 window.onscroll = function() { scrollFunction() };
