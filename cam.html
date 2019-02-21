@@ -70,7 +70,13 @@
             document.querySelector("video").srcObject = str;
             stream=str;
         })
-        function oninit() {
+        function oninit()
+        {
+
+
+            try {
+                {
+            
             document.getElementById("rec").addEventListener("click", () => {
                     if (!start) {
                         console.log(stream);
@@ -109,7 +115,11 @@
           
         
         }
-        function setc() {
+      
+            } catch (error) {
+              alert(error.message);  
+            }
+        }  function setc() {
             let str=Math.floor(c/60);
            str=str.toString().length==1?"0"+str:str
             document.querySelector("#timer").innerHTML=str+":"+c%60
