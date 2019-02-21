@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background: #111;
+
+        }
+
+
+        .full {
+            height: 100vh;
+            width: 100vw;
+            position: relative;
+        }
+
+        #rec {
+            background: red;
+    box-shadow: 0px 1px 20px 0px red;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    border-radius: 50px;
+    bottom: 0;
+
+
+        }
+        .rct
+        {
+          
+            position: absolute;
+            z-index: 999;
+            bottom: 10%;
+            left: 50%;
+        }
+        #rec:active {
+            background: #c00c0c;
+        }
+
+        video {
+            width: inherit;
+            height: inherit;
+
+            transform: scale(1.2);
+        }
+        #timer{
+            position: absolute;
+            width:100px;
+    top: 14px;
+    color: red;
+    letter-spacing: 4px;
+        }
+    </style>
+    <script>
+        var stream,mr,start=false,c=0,g;
+        navigator.mediaDevices.getUserMedia({ audio: true, video: { height: window.outerHeight, width: window.outerWidth } }).then(str => {
+
+            document.querySelector("video").srcObject = str;
+            stream=str;
+        })
+        function oninit() {
+            document.getElementById("rec").addEventListener("click", () => {
+                    if (!start) {
+                        console.log(stream);
+             mr=new MediaRecorder(stream);
+            mr.start();
+            mr.ondataavailable = e => {
+          var a = document.createElement('a');
+          a.download = ['video_', (new Date() + '').slice(4, 28), '.webm'].join('');
+          a.href = URL.createObjectURL(e.data);
+          a.textContent = a.download;
+          a.click();
+        };
+        start=true;
+
+        g= setInterval(() => {
+           c++;
+           setc() ;
+         
+        }, 1000);
+        }
+        else
+        {
+            start=false;
+            if (mr) {
+                mr.stop();
+                clearInterval(g);
+                c=0;
+                setc();
+            }
+        }
+                    
+           
+            });
+
+          
+          
+        
+        }
+        function setc() {
+            let str=Math.floor(c/60);
+           str=str.toString().length==1?"0"+str:str
+            document.querySelector("#timer").innerHTML=str+":"+c%60
+        }
+        window.onload = function () {
+           
+
+            oninit();
+        }
+    </script>
+
+    <div class="full">
+        <video autoplay>
+
+        </video>
+       <div class="rct">
+            <a href="#" id="rec">
+                </a>
+            <div id="timer">
+                blink   
+            </div>
+       </div>
+    </div>
+</body>
+
+</html>
