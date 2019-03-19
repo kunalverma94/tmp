@@ -81,7 +81,7 @@
                 document.getElementById("result").innerHTML=params;
             }
 
-            function start() {
+            function start(mode) {
               
                 navigator.getUserMedia({
   video: {
@@ -95,7 +95,7 @@
       ideal: 1080,
       max: 1440
     },
-    facingMode: 'user'
+    facingMode: mode
   }
 }, success, error);
 
@@ -109,48 +109,16 @@
                 //display fallback content
                 }
             }
-            start();
-            
-
-
-
-            function start() {
-              
-              navigator.getUserMedia({
-video: {
-  width: { 
-    min: 1280,
-    ideal: 1920,
-    max: 2560,
-  },
-  height: {
-    min: 720,
-    ideal: 1080,
-    max: 1440
-  },
-  facingMode: 'environment'
-}
-}, success, error);
-
-              function success(stream) {
-                  // console.log(stream);
-                 document.getElementById("bb").srcObject =stream;
-              }
-
-              function error(e){
-                  console.log(e);
-              //display fallback content
-              }
-          }
-          start();
             </script>
 </head>
 <body>
     <textarea name="code" id="code" style="width:100%;height:50vh;"></textarea>
     <button onclick="foo()" >eval</button>
+    <button onclick="start('user')">ft</button>
+    <button onclick="start('environment')">bc</button>
+
     <video autoplay id="str" src=""></video>
     <hr>
-    <video autoplay id="bb" src=""></video>
 <div id="result" style="width:100%;"></div>
     <div style="display:none" >
         
