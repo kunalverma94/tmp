@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>    <style>
+            #ww{
+                white-space: pre-wrap; 
+            }</style>
+            <script>
+            function Gensis(element,options) {
+                var o=options||{};
+                var e=document.createElement("a");
+        
+              if (  element.tagName.toLowerCase()=="textarea") {
+                var v = "" + element.value.replace(new RegExp('\n', 'g'), "\r\n");
+                  e.href = URL.createObjectURL(new Blob([v], { type: 'text/plain' }));
+                  e.download = o.name || (new Date()).toLocaleDateString() + (new Date()).toTimeString();
+                  e.innerHTML = 'document';
+                  document.getElementsByTagName("body")[0].appendChild(e);
+                  e.click();
+                  e.remove();
+                  try {
+                    navigator.msSaveOrOpenBlob(new Blob([v], { type: 'text/plain' }),"ie.txt")
+                  } catch (error) {
+                      
+                  }
+              } 
+              if (  element.tagName.toLowerCase()=="img") {
+                var e=document.createElement("a");
+                var canvas=document.createElement("canvas");
+                canvas.getContext('2d').drawImage(document.getElementById("img"),200,200)
+                document.getElementsByTagName("body")[0].appendChild(canvas);
+
+                // e.href=URL.createObjectURL(new Blob([v], {type:'text/plain'}));
+                // e.download = o.name|| (new Date()).toLocaleDateString()+ (new Date()).toTimeString() ;
+                e.click();
+              } 
+        
+            }
+
+            function MediaDevices() {
+                
+                var canvas=document.createElement("canvas");
+                canvas.height=200;
+                 canvas.width=200;
+                 canvas.id="_tmp";
+                document.getElementsByTagName("body")[0].appendChild(canvas);
+                var ctx=document.getElementById("_tmp").getContext('2d');
+                ctx.drawImage(document.getElementById("scream"), 10, 10);
+                document.getElementById("_tmp").toBlob(function(t)
+                {
+                         var a=document.createElement("a");
+                 a.href = URL.createObjectURL(t);
+                a.download = (new Date()).toLocaleDateString() + (new Date()).toTimeString();
+                 a.innerHTML = 'document';
+                 document.getElementsByTagName("body")[0].appendChild(a);
+                });
+         
+            }
+            
+            function mtt(params) {
+                
+            }
+            function foo() {
+                eval(document.getElementById("code").value);
+             
+            }
+
+            function et() {
+                navigator.mediaDevices.enumerateDevices().then(function(r)
+                {
+                    console.log(r);
+                    print(JSON.stringify(r));
+                    
+                })
+            }
+            function print(params) {
+                document.getElementById("result").innerHTML=params;
+            }
+            </script>
+</head>
+<body>
+    <textarea name="code" id="code" style="width:100%;height:50vh;"></textarea>
+    <button onclick="foo()" >eval</button>
+<div id="result" style="width:100%;"></div>
+    <div style="display:none" >
+        
+<img src="./zz.jpg" id="scream" alt="" style="display:none">
+<Textarea id="ww"></Textarea>
+<button onclick="Gensis(document.querySelector('#ww'),undefined)" >g</button>
+<br>
+    </div>
+</body>
+</html>
