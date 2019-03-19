@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        body, html {
+    margin: 0;
+    padding: 0;
+}
+    .bb
+    {
+        width: 90vw;
+        border: solid;
+        height: 45vh;
+    }
+    </style>
+    <script>
+        function start(mode,dest) 
+        {
+            var sel={video:true,facingMode:mode};
+            navigator.getUserMedia(sel,success,error)
+            
+            
+            function success(stream) {
+                dest.srcObject =stream;
+                }
+
+                function error(e){
+                    console.log(e);
+                }
+            
+        }
+        function ft() {
+            start('user',document.getElementById("ft")) ;
+        }
+        function bc() {
+            start('environment',document.getElementById("bc")) ;
+        }
+      function init() {
+            ft(); bc();
+      }
+    </script>
+    <button onclick="init()" >start</button>
+    <div class="main"  >
+        <div class="ft bb" >
+            <div class="label" >FRONT</div>
+            <video autoplay src="" id="ft"></video>
+        </div>
+        <div class="bc bb" >
+                <div class="label" >BACK</div>
+
+                <video autoplay src="" id="bc"></video>
+
+        </div>
+
+    </div>
+</body>
+</html>
