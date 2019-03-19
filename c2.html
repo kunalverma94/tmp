@@ -22,7 +22,21 @@
     <script>
         function start(mode,dest) 
         {
-            var sel={video:true,facingMode:mode};
+            var sel={
+  video: {
+    width: { 
+      min: 1280,
+      ideal: 1920,
+      max: 2560,
+    },
+    height: {
+      min: 720,
+      ideal: 1080,
+      max: 1440
+    },
+    facingMode: mode
+  }
+};
             navigator.getUserMedia(sel,success,error)
             
             
