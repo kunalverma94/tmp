@@ -1,8 +1,8 @@
-/* 1 */
+[
 {
     "_id" : 1,
-    "Text" : "The invincible and selfpossessed Rama entered the great forest of Dandaka and saw there a multitude of hermitages of the ascetics\nThey (the hermitages) were strewn all over with kusa grass and robes by bark with auspicious sacrificial materials around and hence dazzling like the orb of the sun in the sky difficult to gaze. ",
-    "Embedding" : [ 
+    "text" : "The invincible and selfpossessed Rama entered the great forest of Dandaka and saw there a multitude of hermitages of the ascetics\nThey (the hermitages) were strewn all over with kusa grass and robes by bark with auspicious sacrificial materials around and hence dazzling like the orb of the sun in the sky difficult to gaze. ",
+    "vector" : [ 
         0.00556699279695749, 
         -0.000753792584873736, 
         -0.00908980146050453, 
@@ -1542,11 +1542,11 @@
     ]
 }
 
-/* 2 */
+,
 {
     "_id" : 2,
-    "Text" : "\nThe courtyards (of the hermitages) were cleanswept, sprinkled with water and decorated They provided shelter to all kinds of creatures and were filled all over with  flocks of birds and antelopes. \nThe hermitages looked glorified with dances by celestial damsels. ",
-    "Embedding" : [ 
+    "text" : "\nThe courtyards (of the hermitages) were cleanswept, sprinkled with water and decorated They provided shelter to all kinds of creatures and were filled all over with  flocks of birds and antelopes. \nThe hermitages looked glorified with dances by celestial damsels. ",
+    "vector" : [ 
         0.00367829552851617, 
         0.00423530442640185, 
         0.00240294937975705, 
@@ -3086,11 +3086,11 @@
     ]
 }
 
-/* 3 */
+,
 {
     "_id" : 3,
-    "Text" : " They were  adorned with vast fire sanctuaries, ladles for sacrificial ceremonies, deerskins and kusa grass faggots for pots of water, roots and fruits They looked delightful with huge sacred trees of the forest laden with sweet fruits. \nThe hermitages where various sacrificial offerings were made reverberated with Vedic chantings. ",
-    "Embedding" : [ 
+    "text" : " They were  adorned with vast fire sanctuaries, ladles for sacrificial ceremonies, deerskins and kusa grass faggots for pots of water, roots and fruits They looked delightful with huge sacred trees of the forest laden with sweet fruits. \nThe hermitages where various sacrificial offerings were made reverberated with Vedic chantings. ",
+    "vector" : [ 
         0.00571859162300825, 
         -0.00323974597267807, 
         -0.01057821046561, 
@@ -4630,11 +4630,11 @@
     ]
 }
 
-/* 4 */
+,
 {
     "_id" : 4,
-    "Text" : " Flowers were scattered all over There was a lotuspond with lotuses.  There were aged, selfrestrained sages glowing like the Sun or the fire, living on fruits and roots, clothed in bark and dark  deerskin. \nThe hermitages echoing with  the sounds of Vedic recitations and resembling the very abode of Brahma were adorned with great, holy sages living on regulated diet. ",
-    "Embedding" : [ 
+    "text" : " Flowers were scattered all over There was a lotuspond with lotuses.  There were aged, selfrestrained sages glowing like the Sun or the fire, living on fruits and roots, clothed in bark and dark  deerskin. \nThe hermitages echoing with  the sounds of Vedic recitations and resembling the very abode of Brahma were adorned with great, holy sages living on regulated diet. ",
+    "vector" : [ 
         0.0119016105309129, 
         0.00339637091383338, 
         -0.00700490968301892, 
@@ -6174,11 +6174,11 @@
     ]
 }
 
-/* 5 */
+,
 {
     "_id" : 5,
-    "Text" : "\nThe illustrious, effulgent Rama saw groups of hermitages adorned with venerable brahmins, with knowledge of the Supreme Spirit On seeing them he loosened the string of his great bow and went forward. \nOn seeing Rama with illustrious Sita, the great sages, richly endowed with divine knowledge, went forward to greet him. ",
-    "Embedding" : [ 
+    "text" : "\nThe illustrious, effulgent Rama saw groups of hermitages adorned with venerable brahmins, with knowledge of the Supreme Spirit On seeing them he loosened the string of his great bow and went forward. \nOn seeing Rama with illustrious Sita, the great sages, richly endowed with divine knowledge, went forward to greet him. ",
+    "vector" : [ 
         0.0017375061288476, 
         -0.0130855413153768, 
         -0.00557804573327303, 
@@ -7718,11 +7718,11 @@
     ]
 }
 
-/* 6 */
+,
 {
     "_id" : 6,
-    "Text" : "\nThe sages, steadfast in their vows, saw Rama who was shining like the rising Moon, Lakshmana and the famed Sita went forward and received them with words of benediction\nThose sages living  in the forest were wonderstruck to see the handsome, graceful, delicate and welldressed Rama. ",
-    "Embedding" : [ 
+    "text" : "\nThe sages, steadfast in their vows, saw Rama who was shining like the rising Moon, Lakshmana and the famed Sita went forward and received them with words of benediction\nThose sages living  in the forest were wonderstruck to see the handsome, graceful, delicate and welldressed Rama. ",
+    "vector" : [ 
         0.00527624879032373, 
         -0.00639712670817971, 
         -0.00250816741026938, 
@@ -9262,11 +9262,11 @@
     ]
 }
 
-/* 7 */
+,
 {
     "_id" : 7,
-    "Text" : "\nAll the foresters looked at the wonderful figures of Rama, Sita and Lakshmana with unblinking eyes\nEver engaged in the welfare of all beings, the sages made Rama, their guest, sit in their leafy hut. \nThe great sages comparable to the firegod and followers of righteousness honoured Rama  according to tradition by offering water. ",
-    "Embedding" : [ 
+    "text" : "\nAll the foresters looked at the wonderful figures of Rama, Sita and Lakshmana with unblinking eyes\nEver engaged in the welfare of all beings, the sages made Rama, their guest, sit in their leafy hut. \nThe great sages comparable to the firegod and followers of righteousness honoured Rama  according to tradition by offering water. ",
+    "vector" : [ 
         0.00907508283853531, 
         -0.0133003769442439, 
         -0.00223223119974136, 
@@ -10806,11 +10806,11 @@
     ]
 }
 
-/* 8 */
+,
 {
     "_id" : 8,
-    "Text" : "\nThe sages who were knowers of dharma saluted the noble Rama, offered fruits, roots and flowers available  at the hermitage and with folded palms said thus:\nO king of great reputation, you are the refuge of the people, a protector of dharma, a chastiser of wrongdoers, a worshipful and respectable preceptor",
-    "Embedding" : [ 
+    "text" : "\nThe sages who were knowers of dharma saluted the noble Rama, offered fruits, roots and flowers available  at the hermitage and with folded palms said thus:\nO king of great reputation, you are the refuge of the people, a protector of dharma, a chastiser of wrongdoers, a worshipful and respectable preceptor",
+    "vector" : [ 
         0.00732565065845847, 
         -0.00884062424302101, 
         -0.0201209466904402, 
@@ -12350,11 +12350,11 @@
     ]
 }
 
-/* 9 */
+,
 {
     "_id" : 9,
-    "Text" : "\nO Rama, in this world a king is considered the fourth part of Indra as he protects the people Therefore, he is respected and he enjoys the choicest pleasures of life. \nSince we are the residents of your territory we deserve to be protected by you.  Whether you live in the city or in the forest, you are the lord of the people and our king. ",
-    "Embedding" : [ 
+    "text" : "\nO Rama, in this world a king is considered the fourth part of Indra as he protects the people Therefore, he is respected and he enjoys the choicest pleasures of life. \nSince we are the residents of your territory we deserve to be protected by you.  Whether you live in the city or in the forest, you are the lord of the people and our king. ",
+    "vector" : [ 
         0.0297193825244904, 
         -0.0164877977222204, 
         -0.00761074619367719, 
@@ -13894,11 +13894,11 @@
     ]
 }
 
-/* 10 */
+,
 {
     "_id" : 10,
-    "Text" : "\nO king, we have conquered our anger and have controlled our senses We ascetics have cast aside all our authority.  We are like your children and need to be protected by you forever\nHaving said so, the ascetics offered with reverence fruits, roots, flowers and other forest  products to Rama and Lakshmana. ",
-    "Embedding" : [ 
+    "text" : "\nO king, we have conquered our anger and have controlled our senses We ascetics have cast aside all our authority.  We are like your children and need to be protected by you forever\nHaving said so, the ascetics offered with reverence fruits, roots, flowers and other forest  products to Rama and Lakshmana. ",
+    "vector" : [ 
         0.0218085832893848, 
         -0.0102097084745765, 
         -0.0171690341085196, 
@@ -15438,11 +15438,11 @@
     ]
 }
 
-/* 11 */
+,
 {
     "_id" : 11,
-    "Text" : "\nAfter receiving hospitality from the sages, Rama took of all of them at sunrise and entered deep into the forest\nWith Lakshmana following, Rama went through the forest, filled with herds of animals and inhabited by bears and tigers.  It was a place where trees, creepers and bushes were crushed (by frequent visits of demons). ",
-    "Embedding" : [ 
+    "text" : "\nAfter receiving hospitality from the sages, Rama took of all of them at sunrise and entered deep into the forest\nWith Lakshmana following, Rama went through the forest, filled with herds of animals and inhabited by bears and tigers.  It was a place where trees, creepers and bushes were crushed (by frequent visits of demons). ",
+    "vector" : [ 
         0.0249682944267988, 
         -0.0135244922712445, 
         0.00405932310968637, 
@@ -16982,11 +16982,11 @@
     ]
 }
 
-/* 12 */
+,
 {
     "_id" : 12,
-    "Text" : " It was difficult to locate a water source  And it resounded with the chirping of various birds and insects (crickets). \nWhile Rama along with Sita was wandering in the forest infested with  dreadful animals, he saw a roaring cannibal resembling the peak of a mountain. ",
-    "Embedding" : [ 
+    "text" : " It was difficult to locate a water source  And it resounded with the chirping of various birds and insects (crickets). \nWhile Rama along with Sita was wandering in the forest infested with  dreadful animals, he saw a roaring cannibal resembling the peak of a mountain. ",
+    "vector" : [ 
         0.0134502165019512, 
         -0.0146693298593163, 
         -0.00659520272165537, 
@@ -18526,11 +18526,11 @@
     ]
 }
 
-/* 13 */
+,
 {
     "_id" : 13,
-    "Text" : "\nHe was of dreadful appearance with deep eyes, a huge face and a big belly He looked tall, ugly and frightening. \nWearing a tigerskin, he resembled the god of death.  With a wide, open mouth, wet with marrow and drenched with blood, he struck terror into  all beings. ",
-    "Embedding" : [ 
+    "text" : "\nHe was of dreadful appearance with deep eyes, a huge face and a big belly He looked tall, ugly and frightening. \nWearing a tigerskin, he resembled the god of death.  With a wide, open mouth, wet with marrow and drenched with blood, he struck terror into  all beings. ",
+    "vector" : [ 
         -0.0111957183107734, 
         -0.00685317674651742, 
         0.0174097046256065, 
@@ -20070,11 +20070,11 @@
     ]
 }
 
-/* 14 */
+,
 {
     "_id" : 14,
-    "Text" : "\nRoaring loudly, he carried an iron spit in which were pierced three lions, four tigers, two wolves, ten deer  and the huge head of an elephant with its tusks smeared with the fat of flesh\nLooking extremely furious, he ran towards Rama, Lakshmana and Sita like the god of death rushes towards the (dying) people. ",
-    "Embedding" : [ 
+    "text" : "\nRoaring loudly, he carried an iron spit in which were pierced three lions, four tigers, two wolves, ten deer  and the huge head of an elephant with its tusks smeared with the fat of flesh\nLooking extremely furious, he ran towards Rama, Lakshmana and Sita like the god of death rushes towards the (dying) people. ",
+    "vector" : [ 
         -0.0205183178186417, 
         -0.00518263224512339, 
         -0.00496047222986817, 
@@ -21614,11 +21614,11 @@
     ]
 }
 
-/* 15 */
+,
 {
     "_id" : 15,
-    "Text" : "\nMaking a dreadful sound, as if shaking the earth, he took Sita on his lap, stepped aside and said:\nYou both clad in bark and wearing matted hair, holding bows, arrows and swords have entered into the Dandaka forest with your wife Your life has been cut short indeed৷৷\nHow is it that you both, dressed in the robes of ascetics, live  with a woman? Leading an unrighteous and sinful life, who are you who have brought disgrace to the ascetic discipline ?\nI am a demon named Viradha. ",
-    "Embedding" : [ 
+    "text" : "\nMaking a dreadful sound, as if shaking the earth, he took Sita on his lap, stepped aside and said:\nYou both clad in bark and wearing matted hair, holding bows, arrows and swords have entered into the Dandaka forest with your wife Your life has been cut short indeed৷৷\nHow is it that you both, dressed in the robes of ascetics, live  with a woman? Leading an unrighteous and sinful life, who are you who have brought disgrace to the ascetic discipline ?\nI am a demon named Viradha. ",
+    "vector" : [ 
         -0.00386936706490815, 
         -0.0132228760048747, 
         0.00496619520708919, 
@@ -23158,11 +23158,11 @@
     ]
 }
 
-/* 16 */
+,
 {
     "_id" : 16,
-    "Text" : " I move in this dense forest with my weapons eating the flesh of the sages\nThis  woman of fine hips shall be my wife.  You sinners I shall drink  the blood of both of you in the fight. \nSita, daughter of Janaka was bewildered out of fear when she heard the cruel  and boastful words of that wicked Viradha. ",
-    "Embedding" : [ 
+    "text" : " I move in this dense forest with my weapons eating the flesh of the sages\nThis  woman of fine hips shall be my wife.  You sinners I shall drink  the blood of both of you in the fight. \nSita, daughter of Janaka was bewildered out of fear when she heard the cruel  and boastful words of that wicked Viradha. ",
+    "vector" : [ 
         -0.00323180924169719, 
         -0.0171657837927341, 
         -0.0116312075406313, 
@@ -24702,11 +24702,11 @@
     ]
 }
 
-/* 17 */
+,
 {
     "_id" : 17,
-    "Text" : "\nSeeing the auspicious Sita in the lap of Viradha shaken out of anxiety, like a plantain tree in a strong wind, Rama with his throat parched said to Lakshmana:\nGentle Lakshmana, see the illustrious daughter ofJanaka, a lady of good conduct,  brought up in utmost comfort caught in the lap of Viradha\nO Lakshmana whatever Kaikeyi desired through her boons has now come true so soon",
-    "Embedding" : [ 
+    "text" : "\nSeeing the auspicious Sita in the lap of Viradha shaken out of anxiety, like a plantain tree in a strong wind, Rama with his throat parched said to Lakshmana:\nGentle Lakshmana, see the illustrious daughter ofJanaka, a lady of good conduct,  brought up in utmost comfort caught in the lap of Viradha\nO Lakshmana whatever Kaikeyi desired through her boons has now come true so soon",
+    "vector" : [ 
         -0.0143258655443788, 
         -0.00672417739406228, 
         0.000646653643343598, 
@@ -26246,11 +26246,11 @@
     ]
 }
 
-/* 18 */
+,
 {
     "_id" : 18,
-    "Text" : "\nKaikeyi, my middle mother is farsighted indeed  Not content with the kingdom alone see sent me, beloved of all  beings, away to the forest Let her cherished desire be fulfilled. \nO Lakshmana nothing is more sorrowful to me than the touch of Vaidehi by another. ",
-    "Embedding" : [ 
+    "text" : "\nKaikeyi, my middle mother is farsighted indeed  Not content with the kingdom alone see sent me, beloved of all  beings, away to the forest Let her cherished desire be fulfilled. \nO Lakshmana nothing is more sorrowful to me than the touch of Vaidehi by another. ",
+    "vector" : [ 
         0.00524391746148467, 
         -0.0134252300485969, 
         -0.00240666093304753, 
@@ -27790,11 +27790,11 @@
     ]
 }
 
-/* 19 */
+,
 {
     "_id" : 19,
-    "Text" : " It is more painful to me than the death of my father or loss of my kingdom\nAs Rama was thus full of tears of sorrow, Lakshmana sighed heavily in anger like a hissing serpant in confinement.  And said:\nO Rama, you are, like Indra, lord of all beings. ",
-    "Embedding" : [ 
+    "text" : " It is more painful to me than the death of my father or loss of my kingdom\nAs Rama was thus full of tears of sorrow, Lakshmana sighed heavily in anger like a hissing serpant in confinement.  And said:\nO Rama, you are, like Indra, lord of all beings. ",
+    "vector" : [ 
         0.00302767939865589, 
         -0.0193322189152241, 
         -0.0149583546444774, 
@@ -29334,11 +29334,11 @@
     ]
 }
 
-/* 20 */
+,
 {
     "_id" : 20,
-    "Text" : " What makes you feel sad like an orphan when I am at your service like a servant?\nThe earth will drink the blood of Viradha with his life gone, slain by my angry arrow\nLike Indra who hits the mountain with his thunderbolt, I shall release on Viradha the anger I felt against Bharata for his passion for the kingdom. ",
-    "Embedding" : [ 
+    "text" : " What makes you feel sad like an orphan when I am at your service like a servant?\nThe earth will drink the blood of Viradha with his life gone, slain by my angry arrow\nLike Indra who hits the mountain with his thunderbolt, I shall release on Viradha the anger I felt against Bharata for his passion for the kingdom. ",
+    "vector" : [ 
         -0.00380380963906646, 
         -0.0345812886953354, 
         -0.0150962667539716, 
@@ -30878,11 +30878,11 @@
     ]
 }
 
-/* 21 */
+,
 {
     "_id" : 21,
-    "Text" : "\nSpurred by the speed of my strong arms, my arrow will fall on his broad chest and separate his life from his body Then his body reeling round and round will fall on the ground. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे द्वितीयस्सर्गः।।Thus ends the second sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki. ",
-    "Embedding" : [ 
+    "text" : "\nSpurred by the speed of my strong arms, my arrow will fall on his broad chest and separate his life from his body Then his body reeling round and round will fall on the ground. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे द्वितीयस्सर्गः।।Thus ends the second sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki. ",
+    "vector" : [ 
         -0.0302427634596825, 
         -0.0187590103596449, 
         -0.0177234802395105, 
@@ -32422,11 +32422,11 @@
     ]
 }
 
-/* 22 */
+,
 {
     "_id" : 22,
-    "Text" : "\nGraceful Lakshmana asked  Viradha  with a smile, Who are you wandering in the forest at will ?\nThen Viradha with his voice filling the forest said, Instead of asking about me you both should speak out who  you are and where you are going\nQuestioned by the demon, who bore a burning countenance, the highly effulgent Rama introduced his Ikshvaku family:\nKnow us to be both kshatriyas, endowed with a good lineage and yet moving in the forest. ",
-    "Embedding" : [ 
+    "text" : "\nGraceful Lakshmana asked  Viradha  with a smile, Who are you wandering in the forest at will ?\nThen Viradha with his voice filling the forest said, Instead of asking about me you both should speak out who  you are and where you are going\nQuestioned by the demon, who bore a burning countenance, the highly effulgent Rama introduced his Ikshvaku family:\nKnow us to be both kshatriyas, endowed with a good lineage and yet moving in the forest. ",
+    "vector" : [ 
         0.0171791948378086, 
         -0.00474203657358885, 
         -0.00688614742830396, 
@@ -33966,11 +33966,11 @@
     ]
 }
 
-/* 23 */
+,
 {
     "_id" : 23,
-    "Text" : " We both wish to know, who you are and why you are going about in Dandaka forest?\nThen Viradha said to Rama whose truth was his strength, I will tell you who I am O, listen:\nI am indeed son to Jaya.  My mother is Satahrada.  Verily all the demons on this earth call me Viradha. ",
-    "Embedding" : [ 
+    "text" : " We both wish to know, who you are and why you are going about in Dandaka forest?\nThen Viradha said to Rama whose truth was his strength, I will tell you who I am O, listen:\nI am indeed son to Jaya.  My mother is Satahrada.  Verily all the demons on this earth call me Viradha. ",
+    "vector" : [ 
         0.00961000379174948, 
         -0.00801589619368315, 
         -0.0200624223798513, 
@@ -35510,11 +35510,11 @@
     ]
 }
 
-/* 24 */
+,
 {
     "_id" : 24,
-    "Text" : "\nBy the grace of Lord Brahma I was bestowed with this prowess through my penance In this world none can kill me with a weapon nor split nor cut me to pieces. \nTherefore, leave this lady and run away to the place you came from.  I will not take away your life . ",
-    "Embedding" : [ 
+    "text" : "\nBy the grace of Lord Brahma I was bestowed with this prowess through my penance In this world none can kill me with a weapon nor split nor cut me to pieces. \nTherefore, leave this lady and run away to the place you came from.  I will not take away your life . ",
+    "vector" : [ 
         0.0005063182907179, 
         -0.0184356030076742, 
         -0.0100503768771887, 
@@ -37054,11 +37054,11 @@
     ]
 }
 
-/* 25 */
+,
 {
     "_id" : 25,
-    "Text" : "\nWith eyes reddened with anger Rama replied to the sinful, deformed Viradha:\nO vile, mean creature  surely you are seeking death Wait, you will meet it in the fight. \nThen Rama strung his bow immediately, shot the sharp arrows at Viradha and hit him verily. ",
-    "Embedding" : [ 
+    "text" : "\nWith eyes reddened with anger Rama replied to the sinful, deformed Viradha:\nO vile, mean creature  surely you are seeking death Wait, you will meet it in the fight. \nThen Rama strung his bow immediately, shot the sharp arrows at Viradha and hit him verily. ",
+    "vector" : [ 
         -0.0186328236013651, 
         -0.0275984071195126, 
         -0.0106937335804105, 
@@ -38598,11 +38598,11 @@
     ]
 }
 
-/* 26 */
+,
 {
     "_id" : 26,
-    "Text" : "\nFrom his bow  strung tight,  Rama shot seven swift, goldenfeathered arrows comparable to Garuda  and the Windgod in speed\nThe arrows tied with peacockfeathers, looking like fire, pierced the body of Viradha which, drenched in blood, fell on the ground. ",
-    "Embedding" : [ 
+    "text" : "\nFrom his bow  strung tight,  Rama shot seven swift, goldenfeathered arrows comparable to Garuda  and the Windgod in speed\nThe arrows tied with peacockfeathers, looking like fire, pierced the body of Viradha which, drenched in blood, fell on the ground. ",
+    "vector" : [ 
         -0.0171594992280006, 
         -0.021858561784029, 
         -0.0188226494938135, 
@@ -40142,11 +40142,11 @@
     ]
 }
 
-/* 27 */
+,
 {
     "_id" : 27,
-    "Text" : "\nHit  by Rama and Lakshmana, the enraged  demon left Vaidehi, lifted a sharp spear   and ran towards them\nThe demon who produced a great noise with his wide open mouth resembled the god of death.  He lifted a sharp spike that looked like Indra's banner. ",
-    "Embedding" : [ 
+    "text" : "\nHit  by Rama and Lakshmana, the enraged  demon left Vaidehi, lifted a sharp spear   and ran towards them\nThe demon who produced a great noise with his wide open mouth resembled the god of death.  He lifted a sharp spike that looked like Indra's banner. ",
+    "vector" : [ 
         -0.00523989740759134, 
         -0.0227584093809128, 
         -0.00189042708370835, 
@@ -41686,11 +41686,11 @@
     ]
 }
 
-/* 28 */
+,
 {
     "_id" : 28,
-    "Text" : "\nAnd then both the brothers showered bright arrows on the demon Viradha who looked like Yama, the god of death\nThe demon who was extremely frightening stood there, laughing and yawning.   As he yawned, all the swiftlyflying arrows fell out of his body. ",
-    "Embedding" : [ 
+    "text" : "\nAnd then both the brothers showered bright arrows on the demon Viradha who looked like Yama, the god of death\nThe demon who was extremely frightening stood there, laughing and yawning.   As he yawned, all the swiftlyflying arrows fell out of his body. ",
+    "vector" : [ 
         0.00035098911030218, 
         -0.0235225278884172, 
         0.00714330468326807, 
@@ -43230,11 +43230,11 @@
     ]
 }
 
-/* 29 */
+,
 {
     "_id" : 29,
-    "Text" : "\nBy virtue of a boon Viradha, the demon, controlled the vital breath of his body by a mere touch and, raising the spike, ran towards the two Raghava princes\nWith two arrows, Rama, the best among wielders of weapons, broke down the spike in the sky burning like fire, and resembling the  thunderbolt of Indra. ",
-    "Embedding" : [ 
+    "text" : "\nBy virtue of a boon Viradha, the demon, controlled the vital breath of his body by a mere touch and, raising the spike, ran towards the two Raghava princes\nWith two arrows, Rama, the best among wielders of weapons, broke down the spike in the sky burning like fire, and resembling the  thunderbolt of Indra. ",
+    "vector" : [ 
         -0.00938156526535749, 
         -0.0216809399425983, 
         -0.00160665216390043, 
@@ -44774,11 +44774,11 @@
     ]
 }
 
-/* 30 */
+,
 {
     "_id" : 30,
-    "Text" : "\nThe spike, broken down by Rama's arrow, fell like a slab of mount Meru splintered by Indra's thunder\nThen both Rama and Lakshmana quickly raised their swords which looked like black serpents and at once fell upon the demon who was going to strike with great force. ",
-    "Embedding" : [ 
+    "text" : "\nThe spike, broken down by Rama's arrow, fell like a slab of mount Meru splintered by Indra's thunder\nThen both Rama and Lakshmana quickly raised their swords which looked like black serpents and at once fell upon the demon who was going to strike with great force. ",
+    "vector" : [ 
         -0.0132795022800565, 
         -0.0170503873378038, 
         -0.00918298121541739, 
@@ -46318,11 +46318,11 @@
     ]
 }
 
-/* 31 */
+,
 {
     "_id" : 31,
-    "Text" : "\nStruck down, the angry demon tightly caught hold of both of them under his arms and wanted to set out, carrying Rama and Lakshmana, the two unshakeable tigers among men\nRama understood the intention of the demon and said to Lakshmana, Let him go his way, no need to stop him. ",
-    "Embedding" : [ 
+    "text" : "\nStruck down, the angry demon tightly caught hold of both of them under his arms and wanted to set out, carrying Rama and Lakshmana, the two unshakeable tigers among men\nRama understood the intention of the demon and said to Lakshmana, Let him go his way, no need to stop him. ",
+    "vector" : [ 
         -0.00413431134074926, 
         -0.0275098253041506, 
         0.00354322884231806, 
@@ -47862,11 +47862,11 @@
     ]
 }
 
-/* 32 */
+,
 {
     "_id" : 32,
-    "Text" : "\nO Lakshmana, let the nightstalker go the way he wishes That is, in fact, our path. \nPuffed up with his own great strength, Viradha lifted them and placed them on his shoulders as though they were two children. \nThen the nightstalker proceeded towards the forest, carrying both the scions of the Raghu race on his shouldersroaring. ",
-    "Embedding" : [ 
+    "text" : "\nO Lakshmana, let the nightstalker go the way he wishes That is, in fact, our path. \nPuffed up with his own great strength, Viradha lifted them and placed them on his shoulders as though they were two children. \nThen the nightstalker proceeded towards the forest, carrying both the scions of the Raghu race on his shouldersroaring. ",
+    "vector" : [ 
         0.0196402929723263, 
         -0.0107344361022115, 
         0.00313228811137378, 
@@ -49406,11 +49406,11 @@
     ]
 }
 
-/* 33 */
+,
 {
     "_id" : 33,
-    "Text" : "\nSeeing those two mightyarmed Rama and Lakshmana being carried away by Viradha, Sita started crying loudly:\nThe wild bears, tigers and panthers will eat me up here O best among demons, pray take me and leave both the Kakutsthas. \nOn hearing those words of  Sita, both the heroes, Rama and Lakshmana hastened to kill the wicked Viradha. ",
-    "Embedding" : [ 
+    "text" : "\nSeeing those two mightyarmed Rama and Lakshmana being carried away by Viradha, Sita started crying loudly:\nThe wild bears, tigers and panthers will eat me up here O best among demons, pray take me and leave both the Kakutsthas. \nOn hearing those words of  Sita, both the heroes, Rama and Lakshmana hastened to kill the wicked Viradha. ",
+    "vector" : [ 
         -0.000696383533068001, 
         -0.0245664771646261, 
         -0.00264453585259616, 
@@ -50950,11 +50950,11 @@
     ]
 }
 
-/* 34 */
+,
 {
     "_id" : 34,
-    "Text" : "\nLakshmana quickly broke the left and Rama the right shoulder of that dreadful demon\nWith both shoulders broken, the demon, looking like a cloud (huge and dark) fell at once on the ground like a mountain split by a thunderbolt. \nStriking the demon with fists, knees and feet, both of them smit him  on the bare ground and pulverized him. ",
-    "Embedding" : [ 
+    "text" : "\nLakshmana quickly broke the left and Rama the right shoulder of that dreadful demon\nWith both shoulders broken, the demon, looking like a cloud (huge and dark) fell at once on the ground like a mountain split by a thunderbolt. \nStriking the demon with fists, knees and feet, both of them smit him  on the bare ground and pulverized him. ",
+    "vector" : [ 
         -0.00733673851937056, 
         -0.0128084244206548, 
         0.0037041106261313, 
@@ -52494,11 +52494,11 @@
     ]
 }
 
-/* 35 */
+,
 {
     "_id" : 35,
-    "Text" : "\nAlthough pierced by arrows, and wounded by the two swords, and pulverized on the ground, the demon did not die\nSeeing the mountainlike Viradha not dying though seriously wounded, illustrious Rama, guaranter of safety from fear said to Lakshmana:\nO Lakshmana, best among men, this demon by virtue of his penance cannot be killed with any weapon in war. ",
-    "Embedding" : [ 
+    "text" : "\nAlthough pierced by arrows, and wounded by the two swords, and pulverized on the ground, the demon did not die\nSeeing the mountainlike Viradha not dying though seriously wounded, illustrious Rama, guaranter of safety from fear said to Lakshmana:\nO Lakshmana, best among men, this demon by virtue of his penance cannot be killed with any weapon in war. ",
+    "vector" : [ 
         -0.00516767334192991, 
         -0.0198853928595781, 
         -0.0080593079328537, 
@@ -54038,11 +54038,11 @@
     ]
 }
 
-/* 36 */
+,
 {
     "_id" : 36,
-    "Text" : " Therefore, let us bury him\nDig a deep pit to bury this demon, dreadful like an elephant and emitting a fearful glow. \nCourageous Rama standing there put his foot firmly on the neck of Viradha and said to Lakshmana,' Dig up a crevice'. \nWhen the demon Viradha heard Rama saying so, he said these humble words to the scion of the Kakutsthas and the best of men :\nYou have killed me, O Rama, a tiger among men. ",
-    "Embedding" : [ 
+    "text" : " Therefore, let us bury him\nDig a deep pit to bury this demon, dreadful like an elephant and emitting a fearful glow. \nCourageous Rama standing there put his foot firmly on the neck of Viradha and said to Lakshmana,' Dig up a crevice'. \nWhen the demon Viradha heard Rama saying so, he said these humble words to the scion of the Kakutsthas and the best of men :\nYou have killed me, O Rama, a tiger among men. ",
+    "vector" : [ 
         -0.0145319504663348, 
         -0.0131536899134517, 
         -0.000530646997503936, 
@@ -55582,11 +55582,11 @@
     ]
 }
 
-/* 37 */
+,
 {
     "_id" : 37,
-    "Text" : " You are equal to Indra in prowess O best of men, out of delusion I could not recognise you earlier. \nO dear Rama, I know now you are the blessed son of Kausalya, Sita is a noble lady and a glorious soul. \nI am Tumburu by name,  a celestial singer of the gandharva clan. ",
-    "Embedding" : [ 
+    "text" : " You are equal to Indra in prowess O best of men, out of delusion I could not recognise you earlier. \nO dear Rama, I know now you are the blessed son of Kausalya, Sita is a noble lady and a glorious soul. \nI am Tumburu by name,  a celestial singer of the gandharva clan. ",
+    "vector" : [ 
         -0.00141002878081053, 
         -0.0175530724227428, 
         -0.0124980602413416, 
@@ -57126,11 +57126,11 @@
     ]
 }
 
-/* 38 */
+,
 {
     "_id" : 38,
-    "Text" : " Cursed by Kubera, I got this dreadful body of a demon\nWhen I appealed to him, that lord of great fame (Kubera) said that I would get back my original form and ascend to heaven when Rama, son of Dasaratha, would kill me in a duel. \nWhen king Kubera saw me absent (from duty) as I was infatuated with Rambha, he got angry and cursed me. ",
-    "Embedding" : [ 
+    "text" : " Cursed by Kubera, I got this dreadful body of a demon\nWhen I appealed to him, that lord of great fame (Kubera) said that I would get back my original form and ascend to heaven when Rama, son of Dasaratha, would kill me in a duel. \nWhen king Kubera saw me absent (from duty) as I was infatuated with Rambha, he got angry and cursed me. ",
+    "vector" : [ 
         -0.00377924111671746, 
         -0.0185057055205107, 
         0.00946464948356152, 
@@ -58670,11 +58670,11 @@
     ]
 }
 
-/* 39 */
+,
 {
     "_id" : 39,
-    "Text" : "\nO scorcher of enemies by your grace I am rid of the curse Delivered from my dreadful form, I will now go to my world.  May both of you fare well. \nO dear, there lives Sarabhanga, a righteous sage, comparable to the Sun, at a distance of one and a half yojanas from here. ",
-    "Embedding" : [ 
+    "text" : "\nO scorcher of enemies by your grace I am rid of the curse Delivered from my dreadful form, I will now go to my world.  May both of you fare well. \nO dear, there lives Sarabhanga, a righteous sage, comparable to the Sun, at a distance of one and a half yojanas from here. ",
+    "vector" : [ 
         0.0136367892846465, 
         -0.0237693041563034, 
         0.011762410402298, 
@@ -60214,11 +60214,11 @@
     ]
 }
 
-/* 40 */
+,
 {
     "_id" : 40,
-    "Text" : " Go to him at once He will bless you with your wellbeing. \nBury me in the pit, O Rama, and proceed happily.  This is a great tradition for the dead demons.  Those who are buried in the pit attain heaven. \nHaving said so to Rama, the mighty  Viradha, hit by the arrows left his body and attained heaven. ",
-    "Embedding" : [ 
+    "text" : " Go to him at once He will bless you with your wellbeing. \nBury me in the pit, O Rama, and proceed happily.  This is a great tradition for the dead demons.  Those who are buried in the pit attain heaven. \nHaving said so to Rama, the mighty  Viradha, hit by the arrows left his body and attained heaven. ",
+    "vector" : [ 
         0.00173940043896437, 
         -0.0119350673630834, 
         0.00175296294037253, 
@@ -61758,11 +61758,11 @@
     ]
 }
 
-/* 41 */
+,
 {
     "_id" : 41,
-    "Text" : "\nWhen Rama heard those words, he said, O Lakshmana dig for this elephantlike demon of dreadful acts, a big pit Having said so the mighty Rama stood firmly stamping the neck of Viradha with his foot. \nThen Lakshmana fetched a spade and dug a sufficiently big pit by the side of the great soul Viradha. ",
-    "Embedding" : [ 
+    "text" : "\nWhen Rama heard those words, he said, O Lakshmana dig for this elephantlike demon of dreadful acts, a big pit Having said so the mighty Rama stood firmly stamping the neck of Viradha with his foot. \nThen Lakshmana fetched a spade and dug a sufficiently big pit by the side of the great soul Viradha. ",
+    "vector" : [ 
         -0.00151414319407195, 
         -0.0176825579255819, 
         0.00219550752080977, 
@@ -63302,11 +63302,11 @@
     ]
 }
 
-/* 42 */
+,
 {
     "_id" : 42,
-    "Text" : "\nRama took his foot off Viradha's neck and dropped his body with pointed ears into the pit while Viradha was groaning fearfully৷৷\nRama and Lakshmana, stable and firm, brave and quick, together lifted the body of Viradha who was fierce in battle and roaring and forcibly threw it into the pit with joy",
-    "Embedding" : [ 
+    "text" : "\nRama took his foot off Viradha's neck and dropped his body with pointed ears into the pit while Viradha was groaning fearfully৷৷\nRama and Lakshmana, stable and firm, brave and quick, together lifted the body of Viradha who was fierce in battle and roaring and forcibly threw it into the pit with joy",
+    "vector" : [ 
         -0.0119806388393044, 
         -0.0228925198316574, 
         0.00259107700549066, 
@@ -64846,11 +64846,11 @@
     ]
 }
 
-/* 43 */
+,
 {
     "_id" : 43,
-    "Text" : "\nThe two princes, bulls among men, who were adept in archery saw that the great demon could not be killed by any other means They reflected over the issue  and undertook the task of killing him with sharp weapons and buried him in a pit. \nRama deliberately wanted to kill Viradha with weapons. ",
-    "Embedding" : [ 
+    "text" : "\nThe two princes, bulls among men, who were adept in archery saw that the great demon could not be killed by any other means They reflected over the issue  and undertook the task of killing him with sharp weapons and buried him in a pit. \nRama deliberately wanted to kill Viradha with weapons. ",
+    "vector" : [ 
         0.00293875648640096, 
         -0.0134620489552617, 
         -0.00967312790453434, 
@@ -66390,11 +66390,11 @@
     ]
 }
 
-/* 44 */
+,
 {
     "_id" : 44,
-    "Text" : " Viradha the forestranger himself revealed that it was not possible to kill him with weapons and asked Rama to bury him in a pit\nWhile Rama, who had made up his mind after hearing him, was putting the mighty demon in the pit, the forest rang with his roar. ",
-    "Embedding" : [ 
+    "text" : " Viradha the forestranger himself revealed that it was not possible to kill him with weapons and asked Rama to bury him in a pit\nWhile Rama, who had made up his mind after hearing him, was putting the mighty demon in the pit, the forest rang with his roar. ",
+    "vector" : [ 
         0.00605425052344799, 
         -0.0192958284169436, 
         -0.0148439770564437, 
@@ -67934,11 +67934,11 @@
     ]
 }
 
-/* 45 */
+,
 {
     "_id" : 45,
-    "Text" : "\nRama and Lakshmana were happy to consign Viradha's body to the pit after killing him They filled the pit with rocks in the great forest without fear. \nOn killing Viradha, the demon of terrific strength, heroic Rama embraced Sita, consoled her and said to his brother Lakshmana, glowing like fire:\nThis wild forest with which we have not been acquainted earlier is difficult  to pass. ",
-    "Embedding" : [ 
+    "text" : "\nRama and Lakshmana were happy to consign Viradha's body to the pit after killing him They filled the pit with rocks in the great forest without fear. \nOn killing Viradha, the demon of terrific strength, heroic Rama embraced Sita, consoled her and said to his brother Lakshmana, glowing like fire:\nThis wild forest with which we have not been acquainted earlier is difficult  to pass. ",
+    "vector" : [ 
         0.010768786072731, 
         -0.0146607104688883, 
         -0.00772293237969279, 
@@ -69478,11 +69478,11 @@
     ]
 }
 
-/* 46 */
+,
 {
     "_id" : 46,
-    "Text" : " (Hence) let us proceed quickly to sage Sarabhanga\nRama went to the hermitage of Sarabhanga, a sage with divine grace who had realised the supreme (by his penance).  Thus by the side of the sage he witnessed a huge wonder. \nRama saw the lord of the gods (Indra) in the sky getting off the chariot, with his body shining brightly like the sun or the fire, followed by the gods, his feet untouched by the earth. ",
-    "Embedding" : [ 
+    "text" : " (Hence) let us proceed quickly to sage Sarabhanga\nRama went to the hermitage of Sarabhanga, a sage with divine grace who had realised the supreme (by his penance).  Thus by the side of the sage he witnessed a huge wonder. \nRama saw the lord of the gods (Indra) in the sky getting off the chariot, with his body shining brightly like the sun or the fire, followed by the gods, his feet untouched by the earth. ",
+    "vector" : [ 
         0.0208935383707285, 
         -0.0119228698313236, 
         0.0022913112770766, 
@@ -71022,11 +71022,11 @@
     ]
 }
 
-/* 47 */
+,
 {
     "_id" : 47,
-    "Text" : " Clad in spotless attire and adorned with shining ornaments, he was being worshipped by many greatsouls like him\nNot far from that place, Rama saw a chariot, yoked with tawnycoloured horses, shining like the morning  Sun.  It looked like a palewhite cloud, resembling the lunar orb. ",
-    "Embedding" : [ 
+    "text" : " Clad in spotless attire and adorned with shining ornaments, he was being worshipped by many greatsouls like him\nNot far from that place, Rama saw a chariot, yoked with tawnycoloured horses, shining like the morning  Sun.  It looked like a palewhite cloud, resembling the lunar orb. ",
+    "vector" : [ 
         0.00124350574333221, 
         -0.0143467523157597, 
         -0.00931684114038944, 
@@ -72566,11 +72566,11 @@
     ]
 }
 
-/* 48 */
+,
 {
     "_id" : 48,
-    "Text" : "\nRama saw a pure white umbrella with a highly expensive golden staff, decorated with variegated flower garlandsWhile near his (Indra's) head stood a pair of exquisite ladies with fans made of yak's tail. \nMany celestial singers of heaven, gods, great sages and siddhas sang with the choicest words the glory of this god stationed in the sky. ",
-    "Embedding" : [ 
+    "text" : "\nRama saw a pure white umbrella with a highly expensive golden staff, decorated with variegated flower garlandsWhile near his (Indra's) head stood a pair of exquisite ladies with fans made of yak's tail. \nMany celestial singers of heaven, gods, great sages and siddhas sang with the choicest words the glory of this god stationed in the sky. ",
+    "vector" : [ 
         0.00405509443953633, 
         -0.0136951301246881, 
         0.00102212431374937, 
@@ -74110,11 +74110,11 @@
     ]
 }
 
-/* 49 */
+,
 {
     "_id" : 49,
-    "Text" : "\nWhile Indra was conversing with Sarabhanga, Rama saw him and said to Lakshmana\nPointing at the chariot, Rama said, Lakshmana, see this wonderful, effulgent chariot endowed with grace is shining like the Sun in the sky. \nThe horses of Indra, who is often invoked (during sacrificial rituals) and about whom  we have heard earlier, are now stationed in the sky. ",
-    "Embedding" : [ 
+    "text" : "\nWhile Indra was conversing with Sarabhanga, Rama saw him and said to Lakshmana\nPointing at the chariot, Rama said, Lakshmana, see this wonderful, effulgent chariot endowed with grace is shining like the Sun in the sky. \nThe horses of Indra, who is often invoked (during sacrificial rituals) and about whom  we have heard earlier, are now stationed in the sky. ",
+    "vector" : [ 
         0.00671799387782812, 
         -0.0124679207801819, 
         0.00293343723751605, 
@@ -75654,11 +75654,11 @@
     ]
 }
 
-/* 50 */
+,
 {
     "_id" : 50,
-    "Text" : "\nO Lakshmana  around the chariot stand hundreds of finest young men of about twentyfive years Clad in red robes, they are wearing earrings, and holding swords in their hands.  They have broad chests and stout arms like iron beams.  Like tigers, they are difficult to overpower. ",
-    "Embedding" : [ 
+    "text" : "\nO Lakshmana  around the chariot stand hundreds of finest young men of about twentyfive years Clad in red robes, they are wearing earrings, and holding swords in their hands.  They have broad chests and stout arms like iron beams.  Like tigers, they are difficult to overpower. ",
+    "vector" : [ 
         -0.00479116011410952, 
         -0.0175876338034868, 
         0.000987299717962742, 
@@ -77196,4 +77196,4 @@
         0.0140861440449953, 
         0.00101319327950478
     ]
-}
+}]
